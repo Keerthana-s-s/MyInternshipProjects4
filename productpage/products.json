@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" Mixer",
+        "price": 750,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name":"Electric Chimney",
+        "price":1000,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" Electric Mixer",
+        "price": 300,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" Oven",
+        "price": 500,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name":" Rice Cooker",
+        "price": 700,
+        "image": "image/5.png"
+    },
+    {
+        "id": 6,
+        "name":"Kettel",
+        "price": 300,
+        "image": "image/6.png"
+    },
+    {
+        "id": 7,
+        "name":" Pan",
+        "price": 200,
+        "image": "image/7.png"
+    },
+    {
+        "id": 8,
+        "name":" Water Bottel",
+        "price": 200,
+        "image": "image/8.png"
+    }
+
+]
